@@ -6,7 +6,9 @@ body {
     color: white;
     margin: 0px;
     padding: 0px;
-    background: url('/Img/bg.jpg');
+    /* background: url('/Img/bg.jpg'); */
+    background: no-repeat url("https://cdn.pixabay.com/photo/2016/11/22/22/25/abs-1850926_960_720.jpg");
+    background-size: cover;
 }
 
 .left {
